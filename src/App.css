@@ -1,0 +1,6 @@
+.App {
+  display: flex;
+  background-color: #1F1F1F;
+  height: 100vh;
+  user-select: none;
+}
